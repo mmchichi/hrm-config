@@ -1,0 +1,8 @@
+server:
+  port: 9001
+    
+hrm:
+  swagger:
+    title: 系统管理服务
+    description: 系统管理服务接口文档
+
