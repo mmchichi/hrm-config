@@ -12,3 +12,6 @@ zuul:
     course:
       path: /course/**
       serviceId: COURSE-SERVICE
+    course:
+      path: /file/**
+      serviceId: FILE-SERVICE
