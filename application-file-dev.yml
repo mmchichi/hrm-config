@@ -1,0 +1,8 @@
+server:
+  port: 9004
+    
+hrm:
+  swagger:
+    title: 文件管理服务
+    description: 文件管理服务接口文档
+
